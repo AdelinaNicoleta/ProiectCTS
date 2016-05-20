@@ -1,0 +1,36 @@
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_Tests.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_Tests.pdb
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\obj\Debug\WinS_Tests.csprojResolveAssemblyReference.cache
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\obj\Debug\WinS_Tests.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\obj\Debug\WinS_Tests.pdb
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_RomanianTrips.exe
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\log4net.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\EntityFramework.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\Excel.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_RomanianTrips.pdb
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\log4net.xml
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\EntityFramework.xml
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Adelina\Documents\Visual Studio 2015\Projects\WinS_RomanianTrips\WinS_Tests\bin\Debug\Excel.pdb
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_Tests.dll
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_Tests.pdb
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_RomanianTrips.exe
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\log4net.dll
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\EntityFramework.dll
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\HtmlAgilityPack.dll
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\Excel.dll
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_RomanianTrips.pdb
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\log4net.xml
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\EntityFramework.xml
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\HtmlAgilityPack.pdb
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\HtmlAgilityPack.xml
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\Excel.pdb
+D:\WinS_RomanianTrips\WinS_Tests\obj\Debug\WinS_Tests.csprojResolveAssemblyReference.cache
+D:\WinS_RomanianTrips\WinS_Tests\obj\Debug\WinS_Tests.dll
+D:\WinS_RomanianTrips\WinS_Tests\obj\Debug\WinS_Tests.pdb
+D:\WinS_RomanianTrips\WinS_Tests\bin\Debug\WinS_Tests.dll.config
